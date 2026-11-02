@@ -37,9 +37,10 @@ Oleh karena itu, diperlukan aplikasi yang dapat mengumpulkan informasi barang hi
 - Database (akan ditentukan)
 
 ## Anggota Kelompok
-1. Nama Anggota 1 - NIM
-2. Nama Anggota 2 - NIM
-3. Nama Anggota 3 - NIM
+1. Lailatul Maisurotul Al Auwaliyah (240605110003)
+2. Tsabita Rima Syahrojah (240605110045)
+3. Aisya Anggraini Labusang (230605110166)
+
 
 ## Status Proyek
 Tahap perencanaan dan analisis kebutuhan.
